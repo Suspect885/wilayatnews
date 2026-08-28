@@ -1,4 +1,5 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
+import LiveBroadcastPanel from '../components/LiveBroadcastPanel';
 import wilayatData from '@shared/data/wilayat.json';
 import channelsData from '@shared/data/channels.json';
 import wilayatChannelsData from '@shared/data/wilayat-channels.json';
@@ -10,6 +11,10 @@ interface Wilayat {
   description: string;
   population: string;
   area: string;
+  coordinates?: {
+    latitude: number;
+    longitude: number;
+  };
 }
 
 interface Channel {
@@ -193,6 +198,7 @@ function WilayatNewsHub() {
             )}
           </div>
         </div>
+        <LiveBroadcastPanel />
       </div>
 
       {/* Footer */}

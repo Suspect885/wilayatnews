@@ -1,4 +1,3 @@
-import React from 'react';
 import WilayatNewsHub from './pages/WilayatNewsHub';
 import { Toaster } from '@/components/ui/sonner';
 import { TooltipProvider } from '@/components/ui/tooltip';

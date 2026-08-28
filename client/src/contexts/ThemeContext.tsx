@@ -19,6 +19,7 @@ export function ThemeProvider({
   switchable?: boolean;
 }) {
   const [theme, setTheme] = useState<Theme>(defaultTheme);
+  void switchable;
 
   return (
     <ThemeContext.Provider value={{ theme, setTheme }}>
