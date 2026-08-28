@@ -1,0 +1,114 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "قناة عمان الأولى",
+      "englishName": "Oman TV 1",
+      "description": "القناة الرسمية الأولى لسلطنة عمان",
+      "type": "تلفزيون",
+      "language": "العربية",
+      "website": "https://www.omantv.gov.om",
+      "status": "نشط",
+      "category": "أخبار وعام"
+    },
+    {
+      "id": 2,
+      "name": "قناة عمان الثانية",
+      "englishName": "Oman TV 2",
+      "description": "القناة الرسمية الثانية",
+      "type": "تلفزيون",
+      "language": "العربية والإنجليزية",
+      "website": "https://www.omantv.gov.om",
+      "status": "نشط",
+      "category": "ثقافة وتعليم"
+    },
+    {
+      "id": 3,
+      "name": "تايم أوت عمان",
+      "englishName": "Time Out Oman",
+      "description": "قناة إخبارية رقمية",
+      "type": "رقمي",
+      "language": "العربية والإنجليزية",
+      "website": "https://www.timeoutoman.com",
+      "status": "نشط",
+      "category": "أخبار رقمية"
+    },
+    {
+      "id": 4,
+      "name": "عمان اليوم",
+      "englishName": "Oman Today",
+      "description": "منصة إخبارية شاملة",
+      "type": "رقمي",
+      "language": "العربية",
+      "website": "https://www.omantoday.om",
+      "status": "نشط",
+      "category": "أخبار محلية"
+    },
+    {
+      "id": 5,
+      "name": "الشرقية أون لاين",
+      "englishName": "Al Sharqiya Online",
+      "description": "أخبار الشرقية المتخصصة",
+      "type": "رقمي",
+      "language": "العربية",
+      "website": "https://www.alsharqiyaonline.om",
+      "status": "نشط",
+      "category": "أخبار إقليمية"
+    },
+    {
+      "id": 6,
+      "name": "أخبار ظفار",
+      "englishName": "Dhofar News",
+      "description": "أخبار محافظة ظفار المحلية",
+      "type": "رقمي",
+      "language": "العربية",
+      "website": "https://www.dhofarnews.om",
+      "status": "نشط",
+      "category": "أخبار محلية إقليمية"
+    },
+    {
+      "id": 7,
+      "name": "مسقط بريس",
+      "englishName": "Muscat Press",
+      "description": "وكالة أنباء ومنصة إخبارية",
+      "type": "رقمي",
+      "language": "العربية والإنجليزية",
+      "website": "https://www.muscatpress.om",
+      "status": "نشط",
+      "category": "وكالة أنباء"
+    },
+    {
+      "id": 8,
+      "name": "عُمان 24",
+      "englishName": "Oman 24",
+      "description": "نشرات إخبارية على مدار 24 ساعة",
+      "type": "رقمي",
+      "language": "العربية",
+      "website": "https://www.oman24.om",
+      "status": "نشط",
+      "category": "أخبار فورية"
+    },
+    {
+      "id": 9,
+      "name": "صوت عمان",
+      "englishName": "Voice of Oman",
+      "description": "محطة راديو إخبارية وثقافية",
+      "type": "راديو",
+      "language": "العربية",
+      "website": "https://www.voiceofoman.om",
+      "status": "نشط",
+      "category": "راديو إخبارية"
+    },
+    {
+      "id": 10,
+      "name": "وسائط عمان الرقمية",
+      "englishName": "Oman Digital Media",
+      "description": "منصة متعددة الوسائط",
+      "type": "رقمي متعدد",
+      "language": "العربية والإنجليزية",
+      "website": "https://www.omandim.om",
+      "status": "نشط",
+      "category": "وسائط متعددة"
+    }
+  ]
+}
