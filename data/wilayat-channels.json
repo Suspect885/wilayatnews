@@ -1,0 +1,124 @@
+{
+  "wilayatChannels": [
+    {
+      "wilayatId": 1,
+      "wilayatName": "مسقط",
+      "channelIds": [1, 2, 3, 4, 7, 8],
+      "localChannels": [
+        {
+          "name": "مسقط نيوز",
+          "description": "أخبار مسقط المحلية",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 2,
+      "wilayatName": "الدقم",
+      "channelIds": [4, 5, 7, 8],
+      "localChannels": [
+        {
+          "name": "أخبار الدقم",
+          "description": "تطورات الدقم الاقتصادية والصناعية",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 3,
+      "wilayatName": "صلالة",
+      "channelIds": [4, 6, 7, 9],
+      "localChannels": [
+        {
+          "name": "صلالة توداي",
+          "description": "أخبار وأحداث صلالة",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 4,
+      "wilayatName": "نزوى",
+      "channelIds": [4, 7, 8, 9],
+      "localChannels": [
+        {
+          "name": "نزوى إخبارية",
+          "description": "أخبار التراث والسياحة",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 5,
+      "wilayatName": "السويق",
+      "channelIds": [1, 4, 5, 7, 8],
+      "localChannels": [
+        {
+          "name": "سوهار برس",
+          "description": "أخبار الصناعة والتجارة",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 6,
+      "wilayatName": "البريمي",
+      "channelIds": [4, 7, 8, 9],
+      "localChannels": [
+        {
+          "name": "البريمي أخبار",
+          "description": "أخبار الواحة الاقتصادية",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 7,
+      "wilayatName": "ظفار",
+      "channelIds": [4, 6, 7, 9],
+      "localChannels": [
+        {
+          "name": "ظفار الأولى",
+          "description": "المحطة المحلية الأولى",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 8,
+      "wilayatName": "الشرقية",
+      "channelIds": [5, 4, 7, 8],
+      "localChannels": [
+        {
+          "name": "الشرقية نيوز",
+          "description": "أخبار محافظة الشرقية",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 9,
+      "wilayatName": "الداخلية",
+      "channelIds": [4, 7, 8, 9],
+      "localChannels": [
+        {
+          "name": "الداخلية نيوز",
+          "description": "أخبار الداخلية المحلية",
+          "type": "رقمي"
+        }
+      ]
+    },
+    {
+      "wilayatId": 10,
+      "wilayatName": "مسندام",
+      "channelIds": [4, 7, 8, 9],
+      "localChannels": [
+        {
+          "name": "مسندم برس",
+          "description": "أخبار محافظة مسندم",
+          "type": "رقمي"
+        }
+      ]
+    }
+  ]
+}

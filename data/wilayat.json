@@ -1,0 +1,124 @@
+{
+  "wilayat": [
+    {
+      "id": 1,
+      "name": "مسقط",
+      "englishName": "Muscat",
+      "description": "عاصمة السلطنة",
+      "population": "1.5 million",
+      "area": "2730 km²",
+      "coordinates": {
+        "latitude": 23.6100,
+        "longitude": 58.5400
+      }
+    },
+    {
+      "id": 2,
+      "name": "الدقم",
+      "englishName": "Duqm",
+      "description": "مدينة ساحلية متطورة",
+      "population": "200,000",
+      "area": "8000 km²",
+      "coordinates": {
+        "latitude": 22.7982,
+        "longitude": 59.5471
+      }
+    },
+    {
+      "id": 3,
+      "name": "صلالة",
+      "englishName": "Salalah",
+      "description": "لؤلؤة الجنوب",
+      "population": "250,000",
+      "area": "13600 km²",
+      "coordinates": {
+        "latitude": 17.0151,
+        "longitude": 54.0924
+      }
+    },
+    {
+      "id": 4,
+      "name": "نزوى",
+      "englishName": "Nizwa",
+      "description": "مدينة التراث والحضارة",
+      "population": "150,000",
+      "area": "4500 km²",
+      "coordinates": {
+        "latitude": 22.9333,
+        "longitude": 57.5333
+      }
+    },
+    {
+      "id": 5,
+      "name": "السويق",
+      "englishName": "Sohar",
+      "description": "ملتقى التجارة والصناعة",
+      "population": "200,000",
+      "area": "5000 km²",
+      "coordinates": {
+        "latitude": 24.3456,
+        "longitude": 56.7891
+      }
+    },
+    {
+      "id": 6,
+      "name": "البريمي",
+      "englishName": "Al Buraimi",
+      "description": "واحة الخير والعطاء",
+      "population": "80,000",
+      "area": "2000 km²",
+      "coordinates": {
+        "latitude": 24.2085,
+        "longitude": 55.7748
+      }
+    },
+    {
+      "id": 7,
+      "name": "ظفار",
+      "englishName": "Dhofar",
+      "description": "منطقة جبلية خضراء",
+      "population": "350,000",
+      "area": "100000 km²",
+      "coordinates": {
+        "latitude": 18.0000,
+        "longitude": 53.0000
+      }
+    },
+    {
+      "id": 8,
+      "name": "الشرقية",
+      "englishName": "Al Sharqiyah",
+      "description": "أرض الطاقة والحركة",
+      "population": "300,000",
+      "area": "15000 km²",
+      "coordinates": {
+        "latitude": 22.5000,
+        "longitude": 59.0000
+      }
+    },
+    {
+      "id": 9,
+      "name": "الداخلية",
+      "englishName": "Ad Dakhiliyah",
+      "description": "قلب عمان الحقيقي",
+      "population": "250,000",
+      "area": "20000 km²",
+      "coordinates": {
+        "latitude": 22.7000,
+        "longitude": 57.2000
+      }
+    },
+    {
+      "id": 10,
+      "name": "مسندم",
+      "englishName": "Musandam",
+      "description": "أرض الفجيرات والجمال",
+      "population": "50,000",
+      "area": "1500 km²",
+      "coordinates": {
+        "latitude": 26.2000,
+        "longitude": 56.2667
+      }
+    }
+  ]
+}
